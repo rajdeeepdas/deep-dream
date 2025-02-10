@@ -1,5 +1,5 @@
-**Pace:**  
-Techniques for adjusting an image iteratively to maximize specific layer activations.
+
+**Techniques for adjusting an image iteratively to maximize specific layer activations.**
 
 - **TensorFlow Compatibility:**  
   Adapting TensorFlow 1.x code to TensorFlow 2.x using `tf.compat.v1`, including updating deprecated functions (e.g., replacing `tf.image.resize_bilinear` with `tf.image.resize`).
@@ -7,9 +7,7 @@ Techniques for adjusting an image iteratively to maximize specific layer activat
 - **Video Generation with OpenCV:**  
   Capturing intermediate frames of the Deep Dream process and generating a video using OpenCV’s `VideoWriter`.
 
-## Installation
-
-### Requirements
+## Installation Requirements
 
 - Python 3.12 (or a compatible version)
 - TensorFlow 2.x
